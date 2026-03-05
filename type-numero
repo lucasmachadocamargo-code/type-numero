@@ -1,0 +1,15 @@
+// tipo number
+const meunumero = 3;
+const primeiroNumero =1;
+const segundoNumero = 2;
+const operaçãoMatematica = primeiroNumero + segundoNumero;
+
+console.log(operaçãoMatematica);
+
+// ponto flutuante 
+
+const numeroPontoFlutuante = 3.3;
+const pontoFlutuantesemzero = .5;
+
+const novaOpeacao = primeiroNumero / numeroPontoFlutuante;
+console.log (novaOperação);
